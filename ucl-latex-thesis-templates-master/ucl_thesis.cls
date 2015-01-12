@@ -427,10 +427,10 @@
     \end{center}%
     \vfill%
     \begin{center}%
-    A dissertation submitted in partial fulfillment \\
-    of the requirements for the degree of \\
-    \textbf{\@degree@string} \\
-    of \\
+%    A dissertation submitted in partial fulfillment \\
+%    of the requirements for the degree of \\
+%    \textbf{\@degree@string} \\
+%    of \\
     \textbf{University College London}.
     \end{center}%
     \vspace{2em}%
